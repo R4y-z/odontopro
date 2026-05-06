@@ -22,11 +22,11 @@ export function Hero() {
 
             <div className="flex justify-center lg:justify-start">
               <Button 
-                size="lg"
-                className="bg-emerald-600/90 hover:bg-emerald-600 text-white px-8 font-semibold text-base transition-all"
-              >
-                Encontre uma clínica
-              </Button>
+  size="lg"
+  className="bg-primary hover:opacity-90 text-primary-foreground px-8 font-semibold transition-all shadow-sm"
+>
+  Encontre uma clínica
+</Button>
             </div>
           </article>
 
